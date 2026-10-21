@@ -4,10 +4,10 @@ Windows Registry Editor Version 5.00
 @="SnowZIP.Archive"
 
 [HKEY_CURRENT_USER\Software\Classes\SnowZIP.Archive\DefaultIcon]
-@="E:\\Development\\otherApps\\SnowZIP\\snowzip.exe,0"
+@="C:\\your\\path\\to\\snowzip.exe,0"
 
 [HKEY_CURRENT_USER\Software\Classes\SnowZIP.Archive\shell\open]
 @="Открыть в SnowZIP"
 
 [HKEY_CURRENT_USER\Software\Classes\SnowZIP.Archive\shell\open\command]
-@="\"E:\\Development\\otherApps\\SnowZIP\\snowzip.exe\" \"%1\""
+@="\"C:\\your\\path\\to\\snowzip.exe\" \"%1\""
